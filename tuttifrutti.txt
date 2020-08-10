@@ -3,3 +3,5 @@
 3. Guava
 4. Papaya
 5. Mango
+6. Black Sapote
+7. Prickly Pear
